@@ -1,0 +1,33 @@
+  body{
+        background-color: #d3cdcd;
+      }
+      .container{
+        text-align: center;
+        margin: 10%;
+      }
+      .container h3 span{
+        color:#0d6ff0;
+      }
+      .container div {
+        margin-bottom: 5%;
+      }
+      .container input[type="number"] {
+        width: 66%;
+        padding: 2%;
+        border-radius: 35px;
+        outline: none;
+        border: 2px solid #00BCD4;
+        
+      }
+      .container #result {
+         width:30%;
+         outline: none;
+         background-color: #0dcaf0;
+         padding: 2%;
+         border-radius: 20px;
+         border: 2px solid #0dcaf0
+      }
+      .container #result:hover {
+        background-color: #0d6ff0;
+        border:3px dashed blue
+      }
